@@ -64,7 +64,7 @@ The dataset is assumed to be stored in the `data/raw/` directory.
 
 ### 🔬 Results
 
-- **Achieved XX% accuracy on the test set
+- **Achieved 95% accuracy
 
 ### 📜 License
 
