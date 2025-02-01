@@ -26,11 +26,11 @@ Make sure you have the following dependencies installed:
 Clone this repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/YourGithubName/image-classification-resnet
-cd image-classification-resnet
+git clone https://github.com/Mirwais-Farahi/PyTorch-COVID19-XRay-Detector.git
+cd PyTorch-COVID19-XRay-Detector
 pip install -r requirements.txt
-
-## 📊 Data Preprocessing
+```
+### 📊 Data Preprocessing
 
 The dataset is assumed to be stored in the `data/raw/` directory.
 
@@ -54,13 +54,13 @@ The dataset is assumed to be stored in the `data/raw/` directory.
 
 ### 📈 Model Evaluation
 
-- **Computes test accuracy
-- **Generates loss/accuracy plots
-- **Visualizes confusion matrix
+- Computes test accuracy
+- Generates loss/accuracy plots
+- Visualizes confusion matrix
 
 ### 📌 Inference on New Images
 
-- **Perform classification on a single image
+- Perform classification on a single image
 
 ### 🔬 Results
 
